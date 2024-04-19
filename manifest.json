@@ -7,7 +7,7 @@
     "background_color": "blue",
     "description": "Kahit ano",
     "icons": [
-      {
+      { 
         "src": "IMG/icon-192.png",
         "sizes": "192x192",
         "type": "image/png"
