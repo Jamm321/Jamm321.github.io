@@ -1,0 +1,21 @@
+{
+    "name": "JL",
+    "short_name": "JL",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "red",
+    "background_color": "blue",
+    "description": "Kahit ano",
+    "icons": [
+      {
+        "src": "IMG/icon-192.png",
+        "sizes": "192x192",
+        "type": "IMG/png"
+      },
+      {
+        "src": "IMG/icon-512.png",
+        "sizes": "512x512",
+        "type": "IMG/png"
+      }
+    ]
+  }
